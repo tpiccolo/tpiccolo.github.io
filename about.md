@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+3rd year MBB student at sfu.
+Currently taking MBB 342 - Bioinformatics and Genomics
+Planning on riding my bike lots this summer and doing some lake swimming.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently drinking a cup of coffee and haven't eaten breakfast yet. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+anthony.piccolo2@gmail.com (mailto:anthony.piccolo2@gmail.com)
