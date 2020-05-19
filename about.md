@@ -14,4 +14,4 @@ Currently drinking a cup of coffee and haven't eaten breakfast yet.
 
 ### Contact me
 
-anthony.piccolo2@gmail.com (mailto:anthony.piccolo2@gmail.com)
+Email: anthony.piccolo2@gmail.com, if you want me to make you a really crappy website.
